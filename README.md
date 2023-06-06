@@ -6,3 +6,6 @@ Note that we have tried to make the code as robust as we can, but we cannot prov
 
 Hoogendoorn, M. and Funk, B., Machine Learning for the Quantified Self - On the Art of Learning from Sensory Data, Springer, 2018.
 
+# read_apple_data
+
+Is sourced from: https://medium.com/@gaurvinayak18/analyzing-apple-health-data-with-python-17700260b599
